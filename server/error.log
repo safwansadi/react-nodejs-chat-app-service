@@ -1,0 +1,475 @@
+{
+  service: 'drobboo-customer-home',
+  tag: 'server.js',
+  data: {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/home/sajid576/Public/react-socketio-chat-app/server/src/lib/server.js',
+      '/home/sajid576/Public/react-socketio-chat-app/server/src/index.js'
+    ]
+  },
+  level: 'error',
+  message: "Cannot find module '../plugins/banner'\n" +
+    'Require stack:\n' +
+    '- /home/sajid576/Public/react-socketio-chat-app/server/src/lib/server.js\n' +
+    '- /home/sajid576/Public/react-socketio-chat-app/server/src/index.js',
+  timestamp: '2021-12-14 12:33:08'
+}
+{
+  service: 'drobboo-customer-home',
+  tag: 'server.js',
+  data: {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/home/sajid576/Public/react-socketio-chat-app/server/src/lib/server.js',
+      '/home/sajid576/Public/react-socketio-chat-app/server/src/index.js'
+    ]
+  },
+  level: 'error',
+  message: "Cannot find module '../plugins/banner'\n" +
+    'Require stack:\n' +
+    '- /home/sajid576/Public/react-socketio-chat-app/server/src/lib/server.js\n' +
+    '- /home/sajid576/Public/react-socketio-chat-app/server/src/index.js',
+  timestamp: '2021-12-14 12:33:16'
+}
+{
+  service: 'drobboo-customer-home',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid plugin options  {\n' +
+    '  "plugin": {\n' +
+    '    \x1B[41m"register"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '  }\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "plugin.register" is required\x1B[0m',
+  timestamp: '2021-12-14 12:33:54'
+}
+{
+  service: 'drobboo-customer-home',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid plugin options  {\n' +
+    '  "plugin": {\n' +
+    '    \x1B[41m"register"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '  }\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "plugin.register" is required\x1B[0m',
+  timestamp: '2021-12-14 12:34:30'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid plugin options  {\n' +
+    '  "plugin": {\n' +
+    '    \x1B[41m"register"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '  }\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "plugin.register" is required\x1B[0m',
+  timestamp: '2021-12-14 12:35:39'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid plugin options  {\n' +
+    '  "plugin": {\n' +
+    '    \x1B[41m"register"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '  }\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "plugin.register" is required\x1B[0m',
+  timestamp: '2021-12-14 12:53:54'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid plugin options  {\n' +
+    '  "plugin": {\n' +
+    '    \x1B[41m"register"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '  }\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "plugin.register" is required\x1B[0m',
+  timestamp: '2021-12-14 13:19:08'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid plugin options  {\n' +
+    '  "plugin": {\n' +
+    '    \x1B[41m"register"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '  }\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "plugin.register" is required\x1B[0m',
+  timestamp: '2021-12-14 13:19:20'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid plugin options  {\n' +
+    '  "plugin": {\n' +
+    '    \x1B[41m"register"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '  }\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "plugin.register" is required\x1B[0m',
+  timestamp: '2021-12-14 13:19:28'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-14 13:24:20'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-14 13:27:33'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-14 13:30:29'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-14 13:32:18'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-14 14:36:57'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {
+    code: 'EADDRINUSE',
+    errno: -98,
+    syscall: 'listen',
+    address: '127.0.0.1',
+    port: 8001
+  },
+  level: 'error',
+  message: 'listen EADDRINUSE: address already in use 127.0.0.1:8001',
+  timestamp: '2021-12-14 15:08:30'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: {
+    message: 'connect ECONNREFUSED 127.0.0.1:27017',
+    reason: TopologyDescription {
+      type: 'Single',
+      setName: null,
+      maxSetVersion: null,
+      maxElectionId: null,
+      servers: Map(1) {
+        'localhost:27017' => ServerDescription {
+          address: 'localhost:27017',
+          error: Error: connect ECONNREFUSED 127.0.0.1:27017
+              at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16) {
+            name: 'MongoNetworkError'
+          },
+          roundTripTime: -1,
+          lastUpdateTime: 718186,
+          lastWriteDate: null,
+          opTime: null,
+          type: 'Unknown',
+          topologyVersion: undefined,
+          minWireVersion: 0,
+          maxWireVersion: 0,
+          hosts: [],
+          passives: [],
+          arbiters: [],
+          tags: []
+        }
+      },
+      stale: false,
+      compatible: true,
+      compatibilityError: null,
+      logicalSessionTimeoutMinutes: null,
+      heartbeatFrequencyMS: 10000,
+      localThresholdMS: 15,
+      commonWireVersion: null
+    }
+  },
+  level: 'error',
+  message: 'connect ECONNREFUSED 127.0.0.1:27017',
+  timestamp: '2021-12-15 11:41:03'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'SocketIO.listen is not a function',
+  timestamp: '2021-12-15 12:02:03'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'SocketIO.listen is not a function',
+  timestamp: '2021-12-15 12:21:28'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: "Cannot read property 'listener' of undefined",
+  timestamp: '2021-12-15 12:56:14'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'SocketIO(...) is not a function',
+  timestamp: '2021-12-15 12:56:57'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {
+    code: 'EADDRINUSE',
+    errno: -98,
+    syscall: 'listen',
+    address: '127.0.0.1',
+    port: 8001
+  },
+  level: 'error',
+  message: 'listen EADDRINUSE: address already in use 127.0.0.1:8001',
+  timestamp: '2021-12-15 12:57:32'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {
+    code: 'EADDRINUSE',
+    errno: -98,
+    syscall: 'listen',
+    address: '127.0.0.1',
+    port: 8001
+  },
+  level: 'error',
+  message: 'listen EADDRINUSE: address already in use 127.0.0.1:8001',
+  timestamp: '2021-12-15 13:17:38'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'PORT is not defined',
+  timestamp: '2021-12-15 13:21:39'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-15 13:37:25'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-15 13:37:40'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-15 13:38:06'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-15 13:38:14'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'SocketIO.listen is not a function',
+  timestamp: '2021-12-15 13:46:03'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'server.connection is not a function',
+  timestamp: '2021-12-15 13:48:22'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'server.connection is not a function',
+  timestamp: '2021-12-15 13:49:13'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'server.connection is not a function',
+  timestamp: '2021-12-15 13:49:23'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'server.connection is not a function',
+  timestamp: '2021-12-15 14:25:21'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'server.connection is not a function',
+  timestamp: '2021-12-15 14:31:41'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'SocketIO.listen is not a function',
+  timestamp: '2021-12-15 14:31:47'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-15 14:33:57'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-15 14:36:18'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/home/sajid576/Public/react-socketio-chat-app/server/src/lib/server.js',
+      '/home/sajid576/Public/react-socketio-chat-app/server/src/index.js'
+    ]
+  },
+  level: 'error',
+  message: "Cannot find module 'hapi'\n" +
+    'Require stack:\n' +
+    '- /home/sajid576/Public/react-socketio-chat-app/server/src/lib/server.js\n' +
+    '- /home/sajid576/Public/react-socketio-chat-app/server/src/index.js',
+  timestamp: '2021-12-15 15:16:19'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-15 15:30:18'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-15 15:30:47'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-15 15:31:26'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-15 15:31:41'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-15 15:33:10'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-15 15:34:19'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-15 15:34:26'
+}

@@ -1,0 +1,782 @@
+{
+  service: 'drobboo-customer-home',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 12:33:07'
+}
+{
+  service: 'drobboo-customer-home',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 12:33:15'
+}
+{
+  service: 'drobboo-customer-home',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 12:33:53'
+}
+{
+  service: 'drobboo-customer-home',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 12:34:29'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 12:35:39'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 12:53:53'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 13:19:08'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 13:19:20'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 13:19:28'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 13:20:02'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 13:24:19'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 13:26:45'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 13:27:25'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 13:27:33'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 13:28:23'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 13:28:33'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 13:28:48'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 13:29:50'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 13:30:02'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 13:30:29'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 13:32:18'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 14:32:40'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 14:36:57'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-14 14:36:57'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 14:43:53'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 14:48:21'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 14:49:29'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 14:50:05'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 14:50:20'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 14:59:41'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 15:05:01'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 15:06:25'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 15:07:05'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 15:08:30'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {
+    code: 'EADDRINUSE',
+    errno: -98,
+    syscall: 'listen',
+    address: '127.0.0.1',
+    port: 8001
+  },
+  level: 'error',
+  message: 'listen EADDRINUSE: address already in use 127.0.0.1:8001',
+  timestamp: '2021-12-14 15:08:30'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 15:09:58'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 15:11:01'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 15:11:25'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-14 15:19:16'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: {
+    message: 'connect ECONNREFUSED 127.0.0.1:27017',
+    reason: TopologyDescription {
+      type: 'Single',
+      setName: null,
+      maxSetVersion: null,
+      maxElectionId: null,
+      servers: Map(1) {
+        'localhost:27017' => ServerDescription {
+          address: 'localhost:27017',
+          error: Error: connect ECONNREFUSED 127.0.0.1:27017
+              at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16) {
+            name: 'MongoNetworkError'
+          },
+          roundTripTime: -1,
+          lastUpdateTime: 718186,
+          lastWriteDate: null,
+          opTime: null,
+          type: 'Unknown',
+          topologyVersion: undefined,
+          minWireVersion: 0,
+          maxWireVersion: 0,
+          hosts: [],
+          passives: [],
+          arbiters: [],
+          tags: []
+        }
+      },
+      stale: false,
+      compatible: true,
+      compatibilityError: null,
+      logicalSessionTimeoutMinutes: null,
+      heartbeatFrequencyMS: 10000,
+      localThresholdMS: 15,
+      commonWireVersion: null
+    }
+  },
+  level: 'error',
+  message: 'connect ECONNREFUSED 127.0.0.1:27017',
+  timestamp: '2021-12-15 11:41:03'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 12:02:03'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'SocketIO.listen is not a function',
+  timestamp: '2021-12-15 12:02:03'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 12:21:28'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 12:56:14'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 12:56:57'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 12:57:32'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {
+    code: 'EADDRINUSE',
+    errno: -98,
+    syscall: 'listen',
+    address: '127.0.0.1',
+    port: 8001
+  },
+  level: 'error',
+  message: 'listen EADDRINUSE: address already in use 127.0.0.1:8001',
+  timestamp: '2021-12-15 12:57:32'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 13:17:37'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {
+    code: 'EADDRINUSE',
+    errno: -98,
+    syscall: 'listen',
+    address: '127.0.0.1',
+    port: 8001
+  },
+  level: 'error',
+  message: 'listen EADDRINUSE: address already in use 127.0.0.1:8001',
+  timestamp: '2021-12-15 13:17:38'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 13:21:39'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 13:21:49'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 13:22:19'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 13:32:20'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 13:32:55'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 13:36:57'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 13:37:25'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 13:37:40'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 13:38:06'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 13:38:14'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 13:46:03'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 13:48:22'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 13:49:13'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 13:49:23'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 14:25:21'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 14:31:41'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 14:31:46'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 14:33:56'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 14:36:18'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 14:36:28'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 14:36:43'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 14:44:22'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:05:18'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:16:19'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:17:44'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:30:18'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-15 15:30:18'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:30:47'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'v.replace is not a function',
+  timestamp: '2021-12-15 15:30:47'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:31:26'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:31:41'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:33:10'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:34:19'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:34:26'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:35:17'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:35:50'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:35:59'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:57:53'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:57:59'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:58:09'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 15:59:15'
+}
+{
+  service: 'my-chat-service',
+  tag: 'connect-db.js',
+  data: { message: 'Database connection established!' },
+  level: 'info',
+  message: '',
+  timestamp: '2021-12-15 16:00:52'
+}
