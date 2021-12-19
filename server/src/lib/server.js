@@ -43,7 +43,7 @@ const config = async () => {
     require("hapi-auth-jwt2"),
 
     //require("../plugins/authentication"),
-    //require("../plugins/chat"),
+    require("../plugins/chat"),
   ]);
 
   server.route({

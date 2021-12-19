@@ -15,10 +15,11 @@ function createMD5(data) {
 }
 module.exports = {
   signUp: async (payload) => {
+    console.log("YO")
     try {
       const hash = await bcrypt.hash(payload.password, 10);
       payload.password = hash;
-      await User.create(payload);
+      const result=await User.create(payload);
       return { success: true, data: result };
     } catch (error) {
       logger.error(tag + ": add", error);
@@ -48,6 +49,27 @@ module.exports = {
       }
     });
   },
+  getAll: async () => {
+    try {
+      const result = await User.find({}).sort({ createdAt: -1 });
+
+      return { success: true, data: result };
+    } catch (error) {
+      logger.error(tag + ': getAll', error);
+
+      return { success: false, data: error };
+    }
+  },
+  deleteAll: async ()=> {
+    try{
+    const result=await User.deleteMany({});
+    return { success: true, data: result };
+  } catch (error) {
+    logger.error(tag + ': deleteAll', error);
+
+    return { success: false, data: error };
+  }
+  },
   shuffle: async (token) => {
     User.aggregate(
       [
@@ -61,19 +83,25 @@ module.exports = {
         },
       ],
       function (err, docs) {
+        if(err) {
+          return { success: false, data: "User not found" };
+        }
         docs.forEach((e) => {
           delete e.password;
           delete e.token;
           delete e.__v;
         });
-        res.send(docs);
+        return { success: true, data: docs };
       }
     );
   },
 
   userInfo: async (token) => {
     User.findOne({ token: token }, (err, document) => {
-      res.send(document);
+      if(err) {
+        return { success: false, data: "User not found" };
+      }
+      return { success: true, data: document };
     });
   },
 };

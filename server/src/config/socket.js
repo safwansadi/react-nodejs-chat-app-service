@@ -14,7 +14,7 @@ exports.connectSocket = (app) => {
       methods: ["GET", "POST"],
     },
   });
-  console.log("lol");
+
   io.on("connection", (socket) => {
     console.log("connection init");
     socket.on("chatID", (data) => {

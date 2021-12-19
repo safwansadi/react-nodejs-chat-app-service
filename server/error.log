@@ -473,3 +473,282 @@
   message: 'v.replace is not a function',
   timestamp: '2021-12-15 15:34:26'
 }
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'joi is not defined',
+  timestamp: '2021-12-19 12:55:50'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Joi is not defined',
+  timestamp: '2021-12-19 12:59:28'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {},
+  level: 'error',
+  message: 'result is not defined',
+  timestamp: '2021-12-19 13:01:30'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 13:02:55'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 13:10:09'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 13:10:37'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 13:13:02'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 13:14:10'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 14:14:50'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 14:36:30'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 14:41:26'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 14:41:29'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 14:41:30'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 14:44:03'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 14:54:05'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 14:54:06'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 14:54:53'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 14:54:54'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 14:55:59'
+}
+{
+  service: 'my-chat-service',
+  tag: 'user.js: add',
+  data: {
+    driver: true,
+    name: 'MongoError',
+    index: 0,
+    code: 11000,
+    keyPattern: { name: 1 },
+    keyValue: { name: null }
+  },
+  level: 'error',
+  message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
+  timestamp: '2021-12-19 14:55:59'
+}

@@ -1,4 +1,4 @@
-const Joi = require("@hapi/joi").extend(require("@hapi/joi-date"));
+const joi = require("@hapi/joi").extend(require("@hapi/joi-date"));
 const Relish = require("relish")({
   messages: {},
 });
@@ -17,13 +17,13 @@ const failAction = Relish.failAction;
 
 module.exports = {
   add: {
-    payload: Joi.object().keys(payload),
+    payload: joi.object().keys(payload),
     //options,
     failAction,
   },
 
   edit: {
-    payload: Joi.object().keys(payload),
+    payload: joi.object().keys(payload),
     //options,
     failAction,
   },

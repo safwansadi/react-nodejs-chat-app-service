@@ -29,4 +29,22 @@ module.exports = [
       validate: {},
     },
   },
+  {
+    method: "GET",
+    path: "/allUsers",
+    handler: handlers.getAll,
+    options: {
+      auth: false,
+      validate: {},
+    },
+  },
+  {
+    method: "GET",
+    path: "/deleteAllUsers",
+    handler: handlers.deleteAll,
+    options: {
+      auth: false,
+      validate: {},
+    },
+  },
 ];
