@@ -3,11 +3,11 @@
 const { ENV, HOST, PORT } = require("../utils/env");
 const { DEV } = require("../utils/constants");
 const logger = require("../utils/logger");
-const { connectSocket } = require("../config/socket");
+
 
 const config = async () => {
   await require("./db");
-
+  require("../config/socket");
   const server = require("@hapi/hapi").server({
     host: HOST || "localhost",
     port: PORT || 8080,
@@ -16,7 +16,7 @@ const config = async () => {
     },
     debug: false, // disable Hapi debug console logging
   });
-  
+
   await server.register([
     {
       plugin: require("hapi-pino"),
@@ -43,7 +43,9 @@ const config = async () => {
     require("hapi-auth-jwt2"),
 
     //require("../plugins/authentication"),
-    require("../plugins/chat"),
+    require("../plugins/user"),
+    //require("../plugins/chat"),
+    // require("../plugins/post"),
   ]);
 
   server.route({
@@ -77,7 +79,7 @@ exports.init = async () => {
 
 exports.start = async () => {
   const server = await config();
-  connectSocket(server);
+
   try {
     await server.start();
   } catch (error) {

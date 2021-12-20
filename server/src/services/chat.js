@@ -1,40 +1,42 @@
-const Message = require("../models/message");
-
+const conversation = require("../models/conversation");
 const logger = require("../utils/logger");
 const _ = require("lodash");
 
 const tag = "chat.js";
 
 module.exports = {
-  fetchMessages: async (payload) => {
-    let senderID = payload.sender;
-    let receiverID = payload.receiver;
+  fetchConvo: async (payload) => {
+    const newConversation = new conversation({
+      members: [payload.senderId, payload.receiverId],
+    });
 
-    Message.find(
-      { _id: senderID },
-      {
-        users: {
-          $elemMatch: { _id: receiverID },
-        },
-      }
-    )
-      .then((document) => {
-        if (document.length > 0) {
-          if (document[0].users.length > 0) {
-            var messages = document[0].users[0].messages;
-            return {
-              success: true,
-              data: messages.slice(Math.max(messages.length - 15, 0)),
-            };
-          } else {
-            return { success: false, data: [] };
-          }
-        } else {
-          return { success: false, data: [] };
-        }
-      })
-      .catch((err) => {
-        return { success: false, data: err };
+    try {
+      const savedConversation = await newConversation.save();
+      return { success: true, data: savedConversation };
+    } catch (err) {
+      return { success: false, data: err };
+    }
+  },
+  //get convo of a user
+  getConvoById: async (params) => {
+    try {
+      const convo = await conversation.find({
+        members: { $in: [params.userId] },
       });
+      return { success: true, data: convo };
+    } catch (err) {
+      return { success: false, data: err };
+    }
+  },
+  //get convo includes two userId
+  getConvoOfTwoUsers: async (params) => {
+    try {
+      const convo = await conversation.findOne({
+        members: { $all: [params.firstUserId, params.secondUserId] },
+      });
+      return { success: true, data: convo };
+    } catch (err) {
+      return { success: false, data: err };
+    }
   },
 };

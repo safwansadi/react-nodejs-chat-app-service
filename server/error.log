@@ -752,3 +752,344 @@
   message: 'E11000 duplicate key error collection: chat_app_db.users index: name_1 dup key: { name: null }',
   timestamp: '2021-12-19 14:55:59'
 }
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/home/sajid576/Public/react-socketio-chat-app/server/src/lib/server.js',
+      '/home/sajid576/Public/react-socketio-chat-app/server/src/index.js'
+    ]
+  },
+  level: 'error',
+  message: "Cannot find module '../plugins/chat'\n" +
+    'Require stack:\n' +
+    '- /home/sajid576/Public/react-socketio-chat-app/server/src/lib/server.js\n' +
+    '- /home/sajid576/Public/react-socketio-chat-app/server/src/index.js',
+  timestamp: '2021-12-20 14:46:00'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 14:46:24'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 14:46:33'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 14:48:10'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 15:37:14'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 15:50:12'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 15:55:00'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 16:01:42'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 17:04:49'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 17:18:32'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 17:22:36'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 17:23:57'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 17:26:37'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 17:28:25'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 17:32:27'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 17:35:51'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 17:40:05'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 18:14:59'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 18:28:01'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 18:34:39'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 18:34:48'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 18:35:37'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 18:39:55'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 18:44:06'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-20 18:44:32'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-21 10:40:26'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-21 11:24:07'
+}
+{
+  service: 'my-chat-service',
+  tag: 'server.js',
+  data: {},
+  level: 'error',
+  message: 'Invalid route options ( ) {\n' +
+    '  \x1B[41m"method"\x1B[0m\x1B[31m [1]: -- missing --\x1B[0m\n' +
+    '}\n' +
+    '\x1B[31m\n' +
+    '[1] "method" is required\x1B[0m',
+  timestamp: '2021-12-21 11:25:13'
+}
